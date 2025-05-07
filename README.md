@@ -40,5 +40,5 @@ lda_topic_modeling/
 ├── topic_trend_over_time.png       # Time-series topic trend plot
 ├── wordcloud_topic_1.png           # Word cloud for Topic 1
 ├── ...
-├── lda_pipeline.py                 # Main Python script (this repo)
+├── FinalProjectLDA.py              # Main Python script (this repo)
 └── README.md                       # Project overview and instructions
